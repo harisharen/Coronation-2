@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.hopkinsmedicine.org	TRUE	/	FALSE	1999999999	CFID	48988195
+www.hopkinsmedicine.org	TRUE	/	FALSE	1999999999	CFTOKEN	8343ce89484409f2-59425855-DCBA-5BAA-E705DE80BE8B1074
+
